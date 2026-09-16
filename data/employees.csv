@@ -1,0 +1,6 @@
+employee_id,name,email,department,salary,joining_date,is_active
+EMP001,string,user@example.com,string,1.0,2026-09-16,true
+EMP002,Priya Singh,priya@example.com,HR,65000,2025-11-20,false
+EMP003,Amit Kumar,amit@example.com,Finance,55000,2024-06-10,false
+aarav08,aarav,arv@gmail.com,HR,1000000.0,2026-09-26,true
+EMP007,aaRAV2,ttt@example.com,FINANCE,1000000.0,2026-07-16,true
