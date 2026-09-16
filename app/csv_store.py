@@ -2,7 +2,7 @@ import logging
 from pathlib import Path
 
 import pandas as pd
-
+import numpy as np
 from app.exceptions import CSVFileException
 from app.models import Employee
 
