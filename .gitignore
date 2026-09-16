@@ -1,5 +1,23 @@
+# Virtual environment
 .venv/
+venv/
+env/
+
+# Python
 __pycache__/
-.ipynb_checkpoints/
-.env
+*.py[cod]
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.envrc
+
+# Tools
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
